@@ -3,6 +3,11 @@ Yet another javascript library for creating table of contents for web pages
 
 DEPENDENCIES
 
+To use:
+prototype.js
+
+To develop:
+Coffescript
 
 USAGE
 
