@@ -24,6 +24,6 @@ Please submit bug reports to:
 http://github.com/tamc/js-toc/issues
 
 Please submit patches to:
-http://github.com/tamc/js-toc/pullrequests
+http://github.com/tamc/js-toc/pulls
 
 
